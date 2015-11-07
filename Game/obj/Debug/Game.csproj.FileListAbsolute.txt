@@ -1,0 +1,8 @@
+C:\start\Software Architect Net\Source\Game\Game\bin\Debug\Game.exe.config
+C:\start\Software Architect Net\Source\Game\Game\bin\Debug\Game.exe
+C:\start\Software Architect Net\Source\Game\Game\bin\Debug\Game.pdb
+C:\start\Software Architect Net\Source\Game\Game\bin\Debug\Model.dll
+C:\start\Software Architect Net\Source\Game\Game\bin\Debug\Model.pdb
+C:\start\Software Architect Net\Source\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\start\Software Architect Net\Source\Game\Game\obj\Debug\Game.exe
+C:\start\Software Architect Net\Source\Game\Game\obj\Debug\Game.pdb

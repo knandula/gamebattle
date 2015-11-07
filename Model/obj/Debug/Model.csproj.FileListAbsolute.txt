@@ -1,0 +1,4 @@
+C:\start\Software Architect Net\Source\Game\Model\bin\Debug\Model.dll
+C:\start\Software Architect Net\Source\Game\Model\bin\Debug\Model.pdb
+C:\start\Software Architect Net\Source\Game\Model\obj\Debug\Model.dll
+C:\start\Software Architect Net\Source\Game\Model\obj\Debug\Model.pdb
